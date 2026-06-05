@@ -1,0 +1,9 @@
+Download Libraries
+
+fastapi
+uvicorn
+streamlit
+requests
+pillowpython-multipart
+tensorflow
+numpy
