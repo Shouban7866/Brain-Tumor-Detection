@@ -7,3 +7,6 @@ requests
 pillowpython-multipart
 tensorflow
 numpy
+
+Google drive link = https://drive.google.com/drive/folders/1jaVGwEbi_ek6HEuBIn2-nW3vakFt_XDI?usp=drive_link
+CNN model download
