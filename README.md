@@ -68,3 +68,26 @@ The model predicts one of the following classes:
 - Seaborn
 
 ---
+## 🌐 FastAPI Backend
+
+Run the backend:
+
+```bash
+uvicorn api:app --reload
+```
+
+Server:
+
+```
+http://127.0.0.1:8000
+```
+
+---
+
+## 💻 Streamlit Frontend
+
+Run:
+
+```bash
+streamlit run app.py
+```
