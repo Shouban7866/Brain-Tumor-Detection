@@ -73,7 +73,7 @@ The model predicts one of the following classes:
 Run the backend:
 
 ```bash
-uvicorn api:app --reload
+uvicorn Backend:app --reload
 ```
 
 Server:
@@ -89,5 +89,5 @@ http://127.0.0.1:8000
 Run:
 
 ```bash
-streamlit run app.py
+streamlit run frontend.py
 ```
